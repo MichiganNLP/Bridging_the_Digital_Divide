@@ -1,4 +1,4 @@
-# Bridging the Digital Divide: Performance Variation of Vision Language Models across SocioEconomic Factors" 
+# Bridging the Digital Divide: Performance Variation of Vision Language Models across SocioEconomic Factors 
 
 This repo contains code (in Jupyter Notebooks) for the analysis featured in our EMNLP 2023 paper "Bridging the Digital Divide: Performance Variation of Vision Language Models across SocioEconomic Factors"
 
